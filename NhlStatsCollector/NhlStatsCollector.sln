@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NhlStatsCollector", "NhlStatsCollector\NhlStatsCollector.csproj", "{77AAC0A8-0E9A-4AA1-BB90-7BDB30DFEDBC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NhlStatsCollectorTest", "NhlStatsCollectorTest\NhlStatsCollectorTest.csproj", "{12FE288A-541C-4D57-84B5-72834960C355}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77AAC0A8-0E9A-4AA1-BB90-7BDB30DFEDBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77AAC0A8-0E9A-4AA1-BB90-7BDB30DFEDBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77AAC0A8-0E9A-4AA1-BB90-7BDB30DFEDBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77AAC0A8-0E9A-4AA1-BB90-7BDB30DFEDBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12FE288A-541C-4D57-84B5-72834960C355}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12FE288A-541C-4D57-84B5-72834960C355}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12FE288A-541C-4D57-84B5-72834960C355}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12FE288A-541C-4D57-84B5-72834960C355}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8081E47-70A8-49AE-94F9-21E12DD97F74}
+	EndGlobalSection
+EndGlobal
